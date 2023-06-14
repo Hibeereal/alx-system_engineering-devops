@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "Chigao" | tr -d 'cC'
