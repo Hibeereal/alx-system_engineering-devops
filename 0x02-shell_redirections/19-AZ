@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "AZ" | tr "AZ" "ce"
+tr "A" "Z" | tr "c" "e"
