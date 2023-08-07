@@ -1,0 +1,2 @@
+#!/bin/bash
+ech "AZ" |tr "AZ" "ce"
